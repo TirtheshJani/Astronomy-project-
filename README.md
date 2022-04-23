@@ -1,2 +1,2 @@
 # Astronomy-project-
-This repo contains the progress and the work till date for the astronomy  project at Georgian College
+This repo contains the progress and a few scripts of the work till date we will keep updating this repository.
